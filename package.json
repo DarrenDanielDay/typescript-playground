@@ -1,0 +1,31 @@
+{
+  "name": "typescript-playground",
+  "version": "1.0.0",
+  "description": "The local TypeScript playground &amp; debugger template you always wanted.",
+  "type": "module",
+  "engines": {
+    "node": ">= 18"
+  },
+  "scripts": {
+    "watch": "tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DarrenDanielDay/typescript-playground.git"
+  },
+  "keywords": [
+    "TypeScript",
+    "debug",
+    "playground"
+  ],
+  "author": "DarrenDanielDay",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DarrenDanielDay/typescript-playground/issues"
+  },
+  "homepage": "https://github.com/DarrenDanielDay/typescript-playground#readme",
+  "devDependencies": {
+    "@types/node": "^20.5.9",
+    "typescript": "^5.2.2"
+  }
+}
